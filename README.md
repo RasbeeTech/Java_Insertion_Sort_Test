@@ -2,7 +2,7 @@
  Java Insertion Sort
  
  ## Purpose:
- Is to test the sorting algorithm.
+ Is to test the integer sorting algorithm.
  
 ## Sample:
 ![alt text](https://github.com/RasbeeTech/Java_Insertion_Sort_Test/blob/main/sample_image_1.png)
